@@ -199,7 +199,10 @@ Week 14 | May 17
 
 Project launch dress rehearsal.
 
-**Public Project Launch?**
+Week 15 | May 24
+---------------------
+
+Public project launch.
 
 Acknowledgements
 =================
