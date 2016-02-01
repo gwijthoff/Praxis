@@ -8,7 +8,7 @@ Agenda
 - Introductions
 - Presentation by GC Fellows Mary Catherine Kinniburg and Patrick Smyth
 - Course logistics
-    - Syllabus
+    - GitHub
     - Academic Commons blog
     - Basecamp
 - Next steps for project pitches
