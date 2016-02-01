@@ -94,7 +94,7 @@ Week 1 | February 2
 
 In class: Welcome, introductions, logistics, role definition, project discussions.  Presentation from GC Digital Fellows on productive sessions during office hours.
 
-**No class on February 9, College closed.  Attend at least one event at [NYCDH's DH Week](http://dhweek.nycdh.org/events/week/2016-02-08/) around the city.**
+**No class on February 9, College closed.  Attend at least one event at [NYCDH Week](http://dhweek.nycdh.org/), taking place around the city.**
 
 Week 2 | February 16
 ---------------------
