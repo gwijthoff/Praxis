@@ -7,7 +7,11 @@ MALS 75500 | IDS 81640
 
 * * * * * 
 
-**Professor | Grant Wythoff (<gw2290@columbia.edu>)**
+**Dr. Grant Wythoff**
+
+- <gw2290@columbia.edu>
+- [@gwijthoff](https://twitter.com/gwijthoff)
+- [About](http://wythoff.net/)
 
 **Course blog: <https://dhpraxis15.commons.gc.cuny.edu/>**
 
@@ -99,7 +103,7 @@ In class: Welcome, introductions, logistics, role definition, project discussion
 February 9
 ------------
 
-**NO CLASS** on Tuesday, February 9: College closed.  Attend at least one event at [NYCDH Week](http://dhweek.nycdh.org/), taking place around the city.
+**NO CLASS** on Tuesday, February 9: College closed.  Attend at least one event at [**NYCDH Week**](http://dhweek.nycdh.org/), taking place around the city.
 
 Week 2 | February 16
 ---------------------
