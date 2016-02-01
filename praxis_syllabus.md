@@ -201,4 +201,9 @@ Project launch dress rehearsal.
 
 **Public Project Launch?**
 
+Acknowledgements
+=================
+
+Thanks to [Matt Gold](https://github.com/mkgold), [Kevin L. Ferguson](https://github.com/klferguson/), [Amanda Hickman](https://github.com/amandabee), and [Luke Waltzer](https://github.com/lwaltzer) for allowing me to adapt their previous iterations of this course.
+
 <!-- pandoc -o praxis_syllabus.pdf --template praxsyl.latex praxis_syllabus.md -->
