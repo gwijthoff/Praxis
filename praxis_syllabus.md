@@ -59,7 +59,7 @@ Each team should also create a social media presence for their projects and use 
 
 Each student will keep an individual journal that should be used to catalogue weekly activities and progress, explore sticky questions, share personal reflections, and work through problems. Journals can be posted publicly to the course blog or kept privately. They should be shared with Prof. Wythoff every week and are *due by midnight, Sunday.*
 
-You must let Prof. Wythoff know where you will be keeping your journal by midnight, February 7th, when your first reflection is due.
+You must let Prof. Wythoff know where you will be keeping your journal by midnight, February 15th, when your first post is due.
 
 
 **Project Requirements**
