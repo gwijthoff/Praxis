@@ -94,7 +94,7 @@ Week 1 | February 2
 
 In class: Welcome, introductions, logistics, role definition, project discussions.  Presentation from GC Digital Fellows on productive sessions during office hours.
 
-[Agenda and notes](https://github.com/gwijthoff/Praxis/blob/master/notes/week1.md)
+- [**Agenda and notes**](https://github.com/gwijthoff/Praxis/blob/master/notes/week1.md)
 
 February 9
 ------------
