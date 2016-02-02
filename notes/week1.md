@@ -6,7 +6,7 @@ Agenda
 
 - Welcome
 - Introductions
-- Presentation by GC Fellows Mary Catherine Kinniburg and Patrick Smyth
+- Presentation by GC Fellows Mary Catherine Kinniburgh and Patrick Smyth
 - Course logistics
     - GitHub
     - Academic Commons blog
