@@ -11,6 +11,7 @@ Agenda
     - GitHub
     - Academic Commons blog
     - Basecamp
+        - Add your emails to the [following spreadsheet](https://docs.google.com/spreadsheets/d/12uly4LgqUU2-PWPuEW3IPMusRFBpOUpRMpO8Fo0eb1M/edit?usp=sharing)
 - Next steps for project pitches
 
 Digital Fellows resources
