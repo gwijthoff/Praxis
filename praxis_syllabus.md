@@ -211,7 +211,7 @@ Project launch dress rehearsal.
 Week 15 | May 24
 ---------------------
 
-Public project launch.
+Public project lunch.
 
 Acknowledgements
 =================
