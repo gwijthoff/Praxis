@@ -193,22 +193,17 @@ Project presentations (x2):
 
 **No class on April 26, spring break**
 
-Week 12 | May 3
----------------------
-
-T-minus two weeks.
-
-Week 13 | May 10
+Week 13 | May 3
 ---------------------
 
 T-minus one week.
 
-Week 14 | May 17
+Week 14 | May 10
 ---------------------
 
 Project launch dress rehearsal.
 
-Week 15 | May 24
+Week 15 | May 17
 ---------------------
 
 Public project launch.
